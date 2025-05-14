@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DrinkWater (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DrinkWater (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
